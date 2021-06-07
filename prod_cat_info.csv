@@ -1,0 +1,70 @@
+prod_cat_code,prod_cat,prod_sub_cat_code,prod_subcat,Units
+1,Clothing,4,Mens,1499
+1,Clothing,1,Women,3456
+1,Clothing,3,Kids,3782
+2,Footwear,1,Mens,4444
+2,Footwear,3,Women,2663
+2,Footwear,4,Kids,4701
+3,Electronics,4,Mobiles,2363
+3,Electronics,5,Computers,1320
+3,Electronics,8,Personal Appliances,1832
+3,Electronics,9,Cameras,3187
+3,Electronics,10,Audio and video,1129
+4,Bags,1,Mens,3458
+4,Bags,4,Women,3712
+5,Books,7,Fiction,3124
+5,Books,12,Academic,2326
+5,Books,10,Non-Fiction,3330
+5,Books,11,Children,2201
+5,Books,3,Comics,2829
+5,Books,6,DIY,1140
+6,Home and kitchen,2,Furnishing,2275
+6,Home and kitchen,10,Kitchen,3754
+6,Home and kitchen,11,Bath,1209
+6,Home and kitchen,12,Tools,1749
+1,Clothing,4,Mens,1470
+1,Clothing,1,Women,2066
+1,Clothing,3,Kids,3047
+2,Footwear,1,Mens,3106
+2,Footwear,3,Women,3356
+2,Footwear,4,Kids,3444
+3,Electronics,4,Mobiles,3213
+3,Electronics,5,Computers,3704
+3,Electronics,8,Personal Appliances,2367
+3,Electronics,9,Cameras,3727
+3,Electronics,10,Audio and video,1203
+4,Bags,1,Mens,1456
+4,Bags,4,Women,1214
+5,Books,7,Fiction,2930
+5,Books,12,Academic,2072
+5,Books,10,Non-Fiction,4095
+5,Books,11,Children,4527
+5,Books,3,Comics,4372
+5,Books,6,DIY,3977
+6,Home and kitchen,2,Furnishing,1459
+6,Home and kitchen,10,Kitchen,3177
+6,Home and kitchen,11,Bath,2680
+6,Home and kitchen,12,Tools,3271
+1,Clothing,4,Mens,2728
+1,Clothing,1,Women,2963
+1,Clothing,3,Kids,3221
+2,Footwear,1,Mens,4835
+2,Footwear,3,Women,3753
+2,Footwear,4,Kids,1865
+3,Electronics,4,Mobiles,2460
+3,Electronics,5,Computers,2204
+3,Electronics,8,Personal Appliances,3793
+3,Electronics,9,Cameras,1366
+3,Electronics,10,Audio and video,1028
+4,Bags,1,Mens,4158
+4,Bags,4,Women,2404
+5,Books,7,Fiction,1923
+5,Books,12,Academic,2013
+5,Books,10,Non-Fiction,1460
+5,Books,11,Children,3788
+5,Books,3,Comics,2418
+5,Books,6,DIY,4327
+6,Home and kitchen,2,Furnishing,4424
+6,Home and kitchen,10,Kitchen,1165
+6,Home and kitchen,11,Bath,3848
+6,Home and kitchen,12,Tools,1835
